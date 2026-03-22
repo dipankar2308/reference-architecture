@@ -1,6 +1,6 @@
-# Reference Architecture diagram
+# Reference architecture diagram
 
-``mermaid
+```mermaid
 C4Container
     title Clean Architecture + Hexagonal Pattern
 
